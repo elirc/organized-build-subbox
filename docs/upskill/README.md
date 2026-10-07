@@ -2,6 +2,8 @@
 
 This curriculum turns this repository into a training lab for a junior engineer growing toward mid-level and senior judgment. It is grounded in the actual code that exists today: a single Vite/React subscription box operations simulator with browser-only state, seed data, and no backend service yet.
 
+> **Snapshot note.** This repo is a snapshot of [elirc/buildsubbox](https://github.com/elirc/buildsubbox) taken while the code was still the one-file `src/App.jsx` prototype seeded from `src/data.js`, so the line anchors in this tree match the code here. The canonical repo has since moved the rules into `src/model.js` and `src/repository.js` with `node:test` coverage, marked this tree superseded, and replaced it with an `astraupskill/` course; none of that exists in this snapshot.
+
 ## Who This Is For
 
 - A brand-new junior who needs a safe first React codebase to read.
